@@ -2,3 +2,5 @@ node_modules
 coverage
 build
 src/components/__snapshots__
+yarn-error.log
+
